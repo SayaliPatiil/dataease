@@ -28,7 +28,7 @@ modules:
     - name: gamma_java
       enabled: true
       rules:
-         - key: 'EMB-JAVA-23'
+         - key: 'EMB-JAVA-16'
            enabled: false
          - key: 'EMB-JAVA-44'
            enabled: false
